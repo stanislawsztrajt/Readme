@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Stanisław Sztrajt</h1>
 <h3 align="center">I'm young front-end developer with experience only in my and my friend projects.</h3>
 
-- 🔭 I’m currently working on [puzzles creator by image (Next, Redux)](https://github.com/stanislawsztrajt/puzzles-generator-next-redux.git)
+- 🔭 I’m currently working on [Dopamine Detox app (React, Redux)](https://github.com/stanislawsztrajt/puzzles-generator-next-redux.git)
 
 - 🌱 I’m currently learning **Redux -> React Native**
 
