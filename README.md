@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Dopamine Detox app (React, Redux)](https://github.com/stanislawsztrajt/dopamine-detox-app-react-redux.git)
 
-- 🌱 I’m currently learning **nest.js**
+- 🌱 I’m currently learning **NestJS**
 
 - Connect with me: **stanislawsztrajt@wp.pl**
 
