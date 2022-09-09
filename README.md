@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Stanisław Sztrajt</h1>
 <h3 align="center">I'm young front-end developer with experience only in my and my friend projects.</h3>
 
-- 🔭 I’m currently working on [Dopamine Detox app (React, Redux)](https://github.com/stanislawsztrajt/dopamine-detox-app-react-redux.git)
+- 🔭 I’m currently working on [Forum about all(NextJS, NestJS, Typescript, MongoDB)](https://github.com/stanislawsztrajt/forum-nestjs-next-ts)
 
 - 🌱 I’m currently learning **NestJS**
 
