@@ -1,6 +1,5 @@
 # Readme
 <h1 align="center">Hi 👋, I'm Stanisław Sztrajt</h1>
-<h3 align="center">I'm young front-end developer with experience only in my and my friend projects.</h3>
 
 - 🔭 I’m currently working on [Dopamine detox manager(React, Redux, Typescript, Strapi, MongoDB)](https://github.com/stanislawsztrajt/dopamine-detox-redux-react)
 
