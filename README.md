@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Property auctions portal(NextJS, Redux, Typescript, NestJS, PostgreSQL)](https://github.com/stanislawsztrajt/property-auctions-portal-kalisz)
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **NestJS** and **PostgreSQL**
 
 - Connect with me: **stanislawsztrajt@wp.pl**
 
