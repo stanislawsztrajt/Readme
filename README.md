@@ -1,7 +1,7 @@
 # Readme
 <h1 align="center">Hi 👋, I'm Stanisław Sztrajt</h1>
 
-- 🔭 I’m currently working on [Property auctions portal(NextJS, Redux, Typescript, NestJS, PostgreSQL)](https://github.com/stanislawsztrajt/property-auctions-portal-kalisz)
+- 🔭 I’m currently working on [Property auctions portal(NextJS, Redux, Typescript, NestJS, PostgreSQL, TailwindCSS)](https://github.com/stanislawsztrajt/property-auctions-portal-kalisz)
 
 - 🌱 I’m currently learning **NestJS** and **PostgreSQL**
 
