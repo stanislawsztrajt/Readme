@@ -1,7 +1,7 @@
 # Readme
 <h1 align="center">Hi 👋, I'm Stanisław Sztrajt</h1>
 
-- 🔭 I’m currently working on [Engdle(React, Redux, Typescript, NestJS, PostgreSQL, TailwindCSS)](https://github.com/stanislawsztrajt/engdle)
+- 🔭 I’m currently working on [Engdle(React, Redux, Typescript, NestJS, PostgreSQL, TailwindCSS)](https://github.com/stanislawsztrajt/engdle) and [Golden Things(Next 13, Redux, Typescript, NestJS, MongoDB, TailwindCSS)](https://github.com/stanislawsztrajt/golden-things)
 
 - 🌱 I’m currently learning **NestJS** and **PostgreSQL**
 
