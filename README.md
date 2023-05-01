@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Optiflow(Next 13, Redux, Typescript, NestJS, MongoDB, TailwindCSS)](https://github.com/stanislawsztrajt/optiflow) and [Engdle(React, Redux, Typescript, NestJS, PostgreSQL, TailwindCSS)](https://github.com/stanislawsztrajt/engdle)
 
-- 🌱 I’m currently learning **NestJS** and **PostgreSQL**
+- 🌱 I’m currently learning **React Native**
 
 - Connect with me: **stanislawsztrajt@wp.pl**
 
