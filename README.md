@@ -1,7 +1,7 @@
 # Readme
 <h1 align="center">Hi 👋, I'm Stanisław Sztrajt</h1>
 
-- 🔭 I’m currently working on [ileplaca(there is nothing for now)](https://github.com/ileplaca) and [Engdle(React, Redux, Typescript, NestJS, PostgreSQL, TailwindCSS)](https://github.com/stanislawsztrajt/engdle)
+- 🔭 I’m currently working on [ileplaca(Solidity, React, Typescript, Next.js, NestJS, Ethers)](https://github.com/ileplaca)
 
 - 🌱 I’m currently learning **Blockchain, Solidity, Web3**
 
